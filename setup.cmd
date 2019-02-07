@@ -13,6 +13,7 @@ sudo choco install sublimetext3 -y
 sudo choco install 7zip.install -y
 sudo choco install utorrent -y
 sudo choco install googlechrome -y
+sudo choco install vcredist2012 -y
 
 gem install rails
 gem install pry
